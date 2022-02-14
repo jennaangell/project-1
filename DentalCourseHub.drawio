@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T03:46:59.705Z" agent="5.0 (Macintosh)" etag="bj-Fr9eXpbRzMK0rn_nE" version="16.5.6" type="github"><diagram id="5XSG5vSDmSJG_u91b6P8" name="Page-1">7Zhvc5sgHMdfjQ97p6j587CxTXtdt7stu2bPdlSJsqJkiDHZqx9ESGIkZ3eXZDzokwS+IODnC/IDx4/y9QODy+wzTRBxgJusHf/OAWAcAPErhU0jDFy3EVKGk0by9sIM/0FK1NUqnKCyVZFTSjhetsWYFgWKeUuDjNG6XW1BSbvXJUxRR5jFkHTVOU541qij0N3rjwinme7Z0++XQ11ZCWUGE1ofSP6940eMUt6k8nWEiGSnuTTPTU+U7gbGUMHf80D+5tflT+jWc+9lGTzhKV4FN6qVFSSVemE1WL7RBBitigTJRlzHn9QZ5mi2hLEsrYXlQst4TkTOE8nuoHQPiHG0PpDUIB8QzRFnG1Fl3XZeTZixytYH9LWWHZD3B0qEyvF01/IeikgoLmZG6fzL6nUe3D79eotA8Onm29cf0xvQz0i0IiYk6ucDy2UzSxd4LZlOTtAxMDwJLBi0iQWgi8wzEPMuBcy3HRiwDFhgO7DAMmBjy4GNjngNDR8xA6/RpXhpI6wFBkLbiL1jZ/y/a9INLSNm+z4ZDm2bY7ZvlEPrVuWgQyyiFSvFCQG4r3LkzzSGHNOiA1JQ4G1iJWf0DUWUUCaUghaS8gITciRBgtNCZGNBDQl9IplicUS4VQU5ThJyyqJ2+LygBZ/CHBNJ9LmKcQLFMCNalHTbgixXhyAvPNOnte1haNi6fVM8fTEPh30ezsRMxpBwmf7wcXcuGvYbGVzVyFGfkXeQow8DtYG+F/YaaIqiL2dgN4x+wYxXkGxRKCs/7HOMhyCTfe417QOmEHVApDsJXskeFVeh/q7kNdOEoAXf50Qqlf8zBFmc6WfFWLaPN2Ud///pOkiPYNvvWVwYHF92dF0AV93OQDeI+54h+fETb3SwkkTisXq1eDnp5TK8SNjhGXy66m4FQsNqOVuwfQmAQS/BM010kd1fQ2/LDu7y/fu/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-14T03:49:11.734Z" agent="5.0 (Macintosh)" etag="squIepLc-x23GzmAdklp" version="16.5.6" type="github">
+  <diagram id="5XSG5vSDmSJG_u91b6P8" name="Page-1">
+    <mxGraphModel dx="942" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mk3ws_a0wW1Vp4JiFiv4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="90" width="890" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="460" y="420" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="420" y="420" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="420" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="80" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="250" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="405" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="570" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="750" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-16" value="Courses by Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="20" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-17" value="Courses by Specialty " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-18" value="Courses by Date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="315" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-19" value="Virtual Courses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="440" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-21" value="&lt;div align=&quot;left&quot;&gt;Search&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="660" y="50" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-23" value="The Dental Course Hub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWNvbW4AJjkC24K-RQXF-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="240" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
